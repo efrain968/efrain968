@@ -1,10 +1,12 @@
 <h1 align="center">Hi 😄, I'm Bryan Ibarra</h1>
 
+
+<h4 align="left">soy un desarrollador de mexico, me gusta programar en android por ser mi primer lenguaje de progamacion que toque a fondo, tiempo despues comence a aprender nuevos lenguajes por estudios, tabajo, diversion o incluso por reto.</h4>
 <h4 align="left">I am a developer from Mexico, I like to program in android because it is my first programming language that I touch in depth, some time later I started to learn new languages ​​for studies, work, fun or even for a challenge.</h4>
 
-- 🔭 I’m currently working on **Android, Java, Php, JavaScript, Fluter**
-- 💬 Ask me about **Android, Laravel, Php, Html,Flutter**
-- 📫 How to reach me: **appsibarra@gmail.com**
+- 🔭 worked regularly at -- trabajó regularmente en:  **Android, Java, Php, JavaScript, Fluter**
+- 💬 Ask me about -- Preguntame por: **Android, Laravel, Php, Html,Flutter**
+- 📫 How to reach me -- Cómo contactarme; **appsibarra@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
