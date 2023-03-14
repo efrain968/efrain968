@@ -1,6 +1,6 @@
 <h1 align="center">Hi 😄, I'm Bryan Ibarra</h1>
 
-<h3 align="center">A Software Developer from México</h3>
+<h4 align="left">I am a developer from Mexico, I like to program in android because it is my first programming language that I touch in depth, some time later I started to learn new languages ​​for studies, work, fun or even for a challenge.</h4>
 
 - 🔭 I’m currently working on **Android, Java, Php, JavaScript, Fluter**
 - 💬 Ask me about **Android, Laravel, Php, Html,Flutter**
