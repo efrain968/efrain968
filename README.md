@@ -1,8 +1,7 @@
 <h1 align="center">Hi 😄, I'm Bryan Ibarra</h1>
 
-
-<h4 align="left">soy un desarrollador de mexico, me gusta programar en android por ser mi primer lenguaje de progamacion que toque a fondo, tiempo despues comence a aprender nuevos lenguajes por estudios, tabajo, diversion o incluso por reto.</h4>
 <h4 align="left">I am a developer from Mexico, I like to program in android because it is my first programming language that I touch in depth, some time later I started to learn new languages ​​for studies, work, fun or even for a challenge.</h4>
+<h4 align="left">soy un desarrollador de mexico, me gusta programar en android por ser mi primer lenguaje de progamacion que toque a fondo, tiempo despues comence a aprender nuevos lenguajes por estudios, tabajo, diversion o incluso por reto.</h4>
 
 - 🔭 worked regularly at -- trabajó regularmente en:  **Android, Java, Php, JavaScript, Fluter**
 - 💬 Ask me about -- Preguntame por: **Android, Laravel, Php, Html,Flutter**
@@ -30,9 +29,9 @@
 
  <h3 align="left">Courses and certificates</h3>
  <a href="https://platzi.com/p/LUD/curso/2185-laravel-api/diploma/detalle/" target="_blank"><img src="https://static.platzi.com/media/achievements/badge-api-rest-laravel-b7b91364-00ac-4f2b-8b2a-e30a95211d4b.png" alt="Curso de API REST con Laravel" width="40" height="40"/></a>
- 
+  <a href="https://platzi.com/p/LUD/curso/1467-curso-php-laravel/diploma/detalle/" target="_blank"><img src="https://static.platzi.com/media/achievements/badge-laravel-ed7723f2-1ec9-4e5b-b4b5-ba70548083a5.png" alt="Curso de PHP con Laravel" width="40" height="40"/></a>
  
  <!--
- <a href="https://platzi.com/p/LUD/curso/2185-laravel-api/diploma/detalle/" target="_blank"><img src="https://static.platzi.com/media/achievements/badge-api-rest-laravel-b7b91364-00ac-4f2b-8b2a-e30a95211d4b.png" alt="Curso Básico de Rust: Variables, Ciclos y Funciones" width="40" height="40"/></a>
+ <a href="https://platzi.com/p/LUD/curso/1467-curso-php-laravel/diploma/detalle/" target="_blank"><img src="https://static.platzi.com/media/achievements/badge-api-rest-laravel-b7b91364-00ac-4f2b-8b2a-e30a95211d4b.png" alt="Curso Básico de Rust: Variables, Ciclos y Funciones" width="40" height="40"/></a>
 
 -->
