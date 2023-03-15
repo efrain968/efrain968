@@ -8,7 +8,7 @@
 - 📫 How to reach me -- Cómo contactarme; **appsibarra@gmail.com**
 
 
-<h3 align="left">Languages:</h3>
+<h2 align="left">Languages:</h2>
 
 <p align="left">
  <a href="https://flutter.dev/" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="36" height="36"/></a>
@@ -22,7 +22,7 @@
  <a href="https://dart.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="sqlite" width="36" height="36"/></a>
 
  
- <h3 align="left">Tools:</h3> 
+ <h2 align="left">Tools:</h2> 
  
  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS code" width="36" height="36"/></a>
  <a href="https://laravel.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="Laravel" width="36" height="36"/></a>
@@ -33,11 +33,11 @@
  <a href="admob.google.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_admob/google_admob-icon.svg" alt="Admob" width="36" height="36"/></a>
 
 
-<h3 align="left">Courses and certificates</h3>
+<h2 align="left">Courses and certificates</h2>
 
 
 
-<h3 align="center">statistics</h3>
+<h2 align="center">statistics</h2>
 
 <a href="https://github.com/efrain968" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=efrain968&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages"/></a> <a href="http://www.github.com/efrain968"><img src="https://github-readme-stats.vercel.app/api?username=efrain968&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Efrain's GitHub stats" /></a> 
 
