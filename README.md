@@ -35,9 +35,7 @@
 
 <h3 align="left">Courses and certificates</h3>
 
- <a href="" target="_blank"><img src="https://static.platzi.com/media/achievements/badge-api-rest-laravel-b7b91364-00ac-4f2b-8b2a-e30a95211d4b.png" alt="Curso de API REST con Laravel" width="40" height="40"/>Curso de API REST con Laravel</a>
- 
-  <a href="" target="_blank"><img src="https://static.platzi.com/media/achievements/badge-laravel-ed7723f2-1ec9-4e5b-b4b5-ba70548083a5.png" alt="Curso de PHP con Laravel" width="40" height="40"/></a>
+
 
 <h3 align="center">statistics</h3>
 
