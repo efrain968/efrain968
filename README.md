@@ -3,7 +3,7 @@
 <h4 align="left">I am a developer from Mexico, I like to program in android because it is my first programming language that I touch in depth, some time later I started to learn new languages ​​for studies, work, fun or even for a challenge.</h4>
 <h4 align="left">soy un desarrollador de mexico, me gusta programar en android por ser mi primer lenguaje de progamacion que toque a fondo, tiempo despues comence a aprender nuevos lenguajes por estudios, tabajo, diversion o incluso por reto.</h4>
 
-- 🔭 worked regularly at -- trabajó regularmente en:  **Android, Java, Php, JavaScript, Fluter**
+- 🔭 worked regularly at -- trabajó regularmente en:  **Android, Java, Php, JavaScript, Flutter**
 - 💬 Ask me about -- Preguntame por: **Android, Laravel, Php, Html,Flutter**
 - 📫 How to reach me -- Cómo contactarme; **appsibarra@gmail.com**
 
