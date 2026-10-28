@@ -86,11 +86,20 @@
 
 | Proyecto / Solución | Rol & Tecnologías | Estado / Enlace |
 | :--- | :--- | :--- |
-| **App Móvil (Android / iOS)** | Desarrollo frontend en `Flutter`, consumo de APIs REST y monetización con `AdMob`. |  🔒 *Proyecto Privado* |
+| **App Móvil (Android / iOS)** | Desarrollo frontend en `Flutter`, consumo de APIs REST y monetización con `AdMob`. | 🔒 *Proyecto Privado* |
 | **Backend & RESTful API** | Arquitectura MVC en `Laravel`, autenticación con tokens y persistencia en `MySQL`. | 🔒 *Proyecto Privado* |
-| **Módulos & Herramientas Web** | Lógica de cliente en `JavaScript`, maquetación responsive con `Tailwind CSS`. |  🔒 *Proyecto Privado*  |
+| **Módulos & Herramientas Web** | Lógica de cliente en `JavaScript`, maquetación responsive con `Tailwind CSS`.| 🔒 *Proyecto Privado* |
 
 ---
 
-### 💼 Enfoque Técnico en Proyectos Re
+### 💼 Enfoque Técnico en Proyectos Reales
 
+* 📱 **Móvil:** State management en Flutter, optimización de renderizado, SQLite local e integración nativa con Android Studio.
+* ⚙️ **Backend:** Controladores, migraciones y seeders en Laravel, endpoints REST JSON y relaciones complejas en SQL.
+* 🛠️ **Flujo de trabajo:** Control de versiones con Git, ramas organizadas (Gitflow) y despliegues en servidores de producción.
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=efrain968&label=Visitas%20al%20perfil&color=0891b2&style=flat-square" alt="Contador de visitas" />
+</div>
