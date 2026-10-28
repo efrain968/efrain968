@@ -36,7 +36,61 @@
 
 
 
-<h2 align="center">statistics</h2>
+<h2 align="center">📊 Métricas y Actividad de GitHub</h2>
 
-<a href="https://github.com/efrain968" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=efrain968&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages"/></a> <a href="http://www.github.com/efrain968"><img src="https://github-readme-stats.vercel.app/api?username=efrain968&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Efrain's GitHub stats" /></a> 
+<!-- Fila 1: Estadísticas generales y Lenguajes más usados -->
+<div align="center">
+  <a href="https://github.com/efrain968">
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=efrain968&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" 
+      alt="Estadísticas de GitHub" 
+      height="175"
+    />
+  </a>
+  <a href="https://github.com/efrain968">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=efrain968&langs_count=6&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" 
+      alt="Lenguajes más usados" 
+      height="175"
+    />
+  </a>
+</div>
+
+<br/>
+
+<!-- Fila 2: Racha continua de commits (incluye contribuciones privadas) -->
+<div align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=efrain968&theme=radical&hide_border=true&background=1c1917&ring=0891b2&fire=0891b2&currStreakLabel=0891b2" 
+    alt="Racha de commits" 
+    height="175"
+  />
+</div>
+
+<br/>
+
+<!-- Fila 3: Trofeos de logros en GitHub -->
+<div align="center">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=efrain968&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=15" 
+    alt="Trofeos de GitHub" 
+  />
+</div>
+
+<br/>
+
+---
+
+### 📱 Proyectos & Experiencia en Producción
+*(Ideal para demostrar desarrollo en proyectos con repositorios privados)*
+
+| Proyecto / Solución | Rol & Tecnologías | Estado / Enlace |
+| :--- | :--- | :--- |
+| **App Móvil (Android / iOS)** | Desarrollo frontend en `Flutter`, consumo de APIs REST y monetización con `AdMob`. |  🔒 *Proyecto Privado* |
+| **Backend & RESTful API** | Arquitectura MVC en `Laravel`, autenticación con tokens y persistencia en `MySQL`. | 🔒 *Proyecto Privado* |
+| **Módulos & Herramientas Web** | Lógica de cliente en `JavaScript`, maquetación responsive con `Tailwind CSS`. |  🔒 *Proyecto Privado*  |
+
+---
+
+### 💼 Enfoque Técnico en Proyectos Re
 
